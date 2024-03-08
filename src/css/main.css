@@ -44,6 +44,10 @@ body {
   /* mix-blend-mode: difference; */
 }
 
+.hero button {
+  width: 120px;
+}
+
 .about-img img {
   padding-top: 170px;
 }
@@ -134,8 +138,9 @@ body {
   }
 
   .hero img {
-    width: 100%;
-    height: 100%;
+    /* width: 100%;
+    height: 100%; */
+    display: none;
   }
 
   .pop-testimoni {

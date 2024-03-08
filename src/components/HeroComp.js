@@ -6,7 +6,7 @@ const HeroComp = () => {
     <div className="hero">
       <Container>
         <Row>
-          <Col className="col-lg-6 col-12">
+          <Col className="col-lg-6 col-12 pb-5">
             <h1>
               Ujian <span>CPNS</span> Lebih Mudah Dengan Tryout Online Kami!
             </h1>
