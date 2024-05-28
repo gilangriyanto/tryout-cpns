@@ -18,8 +18,11 @@ const HeroComp = () => {
             </p>
 
             <div>
+              <a href="https://api-cpns.creazylab.works/login">
               <Button className="btn btn-light me-3">Register</Button>
               <Button className="btn btn-dark">Masuk</Button>
+              </a>
+              
             </div>
           </Col>
 

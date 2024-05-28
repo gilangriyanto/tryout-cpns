@@ -22,12 +22,14 @@ const TryoutComp = () => {
                     Kami selalu menyediakan soal-soal terikini dan terupdate
                     sesuai dengan kurikulum dan persyaratan terbaru CPNS.{" "}
                   </Card.Text>
-                  <Button variant="primary">Beli Soal</Button>
+                  <a href="https://api-cpns.creazylab.works/login">
+                    <Button variant="primary">Beli Soal</Button>
+                  </a>
                 </div>
               </Card.Body>
             </Card>
           </Col>
-          
+
           <Col className="col-12 col-lg-4">
             <Card className="my-4 mx-4 shadow rounded-4">
               <Card.Body className="my-3 text-center">
@@ -41,7 +43,9 @@ const TryoutComp = () => {
                     Kami selalu menyediakan soal-soal terikini dan terupdate
                     sesuai dengan kurikulum dan persyaratan terbaru CPNS.{" "}
                   </Card.Text>
-                  <Button variant="primary">Beli Soal</Button>
+                  <a href="https://api-cpns.creazylab.works/login">
+                    <Button variant="primary">Beli Soal</Button>
+                  </a>
                 </div>
               </Card.Body>
             </Card>
@@ -60,7 +64,9 @@ const TryoutComp = () => {
                     Kami selalu menyediakan soal-soal terikini dan terupdate
                     sesuai dengan kurikulum dan persyaratan terbaru CPNS.{" "}
                   </Card.Text>
-                  <Button variant="primary">Beli Soal</Button>
+                  <a href="https://api-cpns.creazylab.works/login">
+                    <Button variant="primary">Beli Soal</Button>
+                  </a>
                 </div>
               </Card.Body>
             </Card>
@@ -79,7 +85,9 @@ const TryoutComp = () => {
                     Kami selalu menyediakan soal-soal terikini dan terupdate
                     sesuai dengan kurikulum dan persyaratan terbaru CPNS.{" "}
                   </Card.Text>
-                  <Button variant="primary">Beli Soal</Button>
+                  <a href="https://api-cpns.creazylab.works/login">
+                    <Button variant="primary">Beli Soal</Button>
+                  </a>
                 </div>
               </Card.Body>
             </Card>
@@ -98,7 +106,9 @@ const TryoutComp = () => {
                     Kami selalu menyediakan soal-soal terikini dan terupdate
                     sesuai dengan kurikulum dan persyaratan terbaru CPNS.{" "}
                   </Card.Text>
-                  <Button variant="primary">Beli Soal</Button>
+                  <a href="https://api-cpns.creazylab.works/login">
+                    <Button variant="primary">Beli Soal</Button>
+                  </a>
                 </div>
               </Card.Body>
             </Card>
@@ -117,7 +127,9 @@ const TryoutComp = () => {
                     Kami selalu menyediakan soal-soal terikini dan terupdate
                     sesuai dengan kurikulum dan persyaratan terbaru CPNS.{" "}
                   </Card.Text>
-                  <Button variant="primary">Beli Soal</Button>
+                  <a href="https://api-cpns.creazylab.works/login">
+                    <Button variant="primary">Beli Soal</Button>
+                  </a>
                 </div>
               </Card.Body>
             </Card>
@@ -136,13 +148,14 @@ const TryoutComp = () => {
                     Kami selalu menyediakan soal-soal terikini dan terupdate
                     sesuai dengan kurikulum dan persyaratan terbaru CPNS.{" "}
                   </Card.Text>
-                  <Button variant="primary">Beli Soal</Button>
+                  <a href="https://api-cpns.creazylab.works/login">
+                    <Button variant="primary">Beli Soal</Button>
+                  </a>
                 </div>
               </Card.Body>
             </Card>
           </Col>
         </Row>
-
       </Container>
     </div>
   );

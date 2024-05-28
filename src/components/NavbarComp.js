@@ -16,23 +16,26 @@ const NavbarComp = () => {
 
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">
-              <Nav.Link href="#home" className="mx-2">
+              <Nav.Link href="https://api-cpns.creazylab.works/login" className="mx-2">
                 Beranda
               </Nav.Link>
-              <Nav.Link href="#link" className="mx-2">
+              <Nav.Link href="https://api-cpns.creazylab.works/login" className="mx-2">
                 Fitur
               </Nav.Link>
-              <Nav.Link href="#link" className="mx-2">
+              <Nav.Link href="https://api-cpns.creazylab.works/login" className="mx-2">
                 Tryout
               </Nav.Link>
-              <Nav.Link href="#link" className="mx-2">
+              <Nav.Link href="https://api-cpns.creazylab.works/login" className="mx-2">
                 Testimoni
               </Nav.Link>
-              <Nav.Link href="#link" className="mx-2">
+              <Nav.Link href="https://api-cpns.creazylab.works/login" className="mx-2">
                 Dashboard
               </Nav.Link>
 
-              <Button className="text-white btn-sm btn-info m-0" style={{ width: "100px", borderRadius: "18px" }}>Masuk</Button>
+              <a href='https://api-cpns.creazylab.works/login'>
+              <Button className="text-white btn-sm btn-info m-2" style={{ width: "100px", borderRadius: "14px" }}>Masuk</Button>
+              </a>
+              
             </Nav>
           </Navbar.Collapse>
         </Container>
